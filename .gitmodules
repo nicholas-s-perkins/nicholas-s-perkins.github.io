@@ -1,3 +1,8 @@
 [submodule "simpleJSONViewer"]
 	path = simpleJSONViewer
 	url = https://github.com/nicholas-s-perkins/simpleJSONViewer
+	branch = master
+[submodule "uSpotter"]
+	path = uSpotter
+	url = https://github.com/nicholas-s-perkins/uSpotter.git
+	branch = master
